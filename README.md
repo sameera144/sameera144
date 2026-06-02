@@ -80,23 +80,6 @@ Responsive personal website showcasing skills and projects.
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameera144&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameera144&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameera144&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: sameerayasmeen75@gmail.com
